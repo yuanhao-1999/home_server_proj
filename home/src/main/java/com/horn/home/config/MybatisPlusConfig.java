@@ -8,7 +8,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @Configuration
 @EnableTransactionManagement
-@MapperScan("com.horn.mapper")
+@MapperScan("com.horn.home.user")
 public class MybatisPlusConfig {
 
     @Bean

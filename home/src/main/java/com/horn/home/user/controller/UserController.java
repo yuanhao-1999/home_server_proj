@@ -1,10 +1,12 @@
 package com.horn.home.user.controller;
 
+import com.horn.home.user.mapper.UserMapper;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import org.springframework.web.bind.annotation.RestController;
-import 你自己的父类控制器,没有就不用设置!;
 
 /**
  * <p>
@@ -16,6 +18,15 @@ import 你自己的父类控制器,没有就不用设置!;
  */
 @RestController
 @RequestMapping("/user/user")
-public class UserController extends 你自己的父类控制器,没有就不用设置! {
+public class UserController {
+
+    @Autowired
+    UserMapper userMapper;
+
+    @GetMapping("/index")
+    public Object index() {
+        return userMapper.getAll();
+    }
+
 
 }

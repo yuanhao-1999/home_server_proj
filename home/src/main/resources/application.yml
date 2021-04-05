@@ -8,6 +8,7 @@ spring:
     password: qaz123456
 
 mybatis-plus:
-  mapper-locations: classpath*:/mapper/**Mapper.xml
+  # config-location: classpath:mybatis-config.xml
+  mapper-locations: classpath:mapper/user/*.xml
 
 debug: true
