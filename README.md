@@ -2,7 +2,7 @@
 
 - Horn 官网后台服务：SpringBoot + Mybatis + MySQL
 
-![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/img-func.png)
+![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/img-func.jpg)
 
 # 二、功能
 
