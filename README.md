@@ -1,6 +1,8 @@
 # 一 、home_server_proj
- Horn 官网后台服务：SpringBoot + Mybatis + MySQL
 
+- Horn 官网后台服务：SpringBoot + Mybatis + MySQL
+
+![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/img-func.png)
 
 # 二、功能
 
