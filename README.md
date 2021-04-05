@@ -27,9 +27,9 @@
 
 ## 2.3 关于 SQL
 
+![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/sql-1.png)
 ![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/sql-2.png)
-![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/sql-2.png)
-![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/sql-2.png)
+![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/sql-3.png)
 
 - sql 语句与表结构
 
