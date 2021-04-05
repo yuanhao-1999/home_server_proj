@@ -11,6 +11,12 @@
 - 访问 localhost:8067
 - ......
 
+![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/web-4.png)
+![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/web-3.png)
+![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/web-1.png)
+![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/web-2.png)
+
+
 ## 2.2 后端
 
 - SpringBoot
