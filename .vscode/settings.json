@@ -1,0 +1,4 @@
+{
+    "java.checkstyle.configuration": "${workspaceFolder}/home/pom.xml",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
