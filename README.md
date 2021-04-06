@@ -27,9 +27,17 @@
 
 ## 2.3 关于 SQL
 
+- 全局配置总览如下
+
+![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/sql-1.png)
+
+- 关于数据类型与数据库结构
+
 ![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/sql-2.png)
-![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/sql-2.png)
-![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/sql-2.png)
+
+- 表结构与测试内容
+
+![](https://github.com/yuanhao-1999/home_server_proj/blob/main/images/sql-3.png)
 
 - sql 语句与表结构
 
