@@ -2,7 +2,7 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.horn.home.user.mapper.UserMapper">
 
-    <resultMap id="BaseResultMap" type="com.horn.home.user.entity.User" >
+    <resultMap id="BaseResultMap" type="com.horn.home.entity.User" >
         <id column="id" property="id" jdbcType="BIGINT" />
         <result column="name" property="name" jdbcType="VARCHAR" />
         <result column="age" property="age" jdbcType="INTEGER" />
@@ -26,7 +26,7 @@
        WHERE id = #{id}
     </select>
 
-    <insert id="insert" parameterType="com.horn.home.user.entity.User" >
+    <insert id="insert" parameterType="com.horn.home.entity.User" >
        INSERT INTO 
             user 
             (userName,passWord,user_sex) 
@@ -34,7 +34,7 @@
             (#{userName}, #{passWord}, #{userSex})
     </insert>
 
-    <update id="update" parameterType="com.horn.home.user.entity.User" >
+    <update id="update" parameterType="com.horn.home.entity.User" >
        UPDATE 
             user 
        SET 
